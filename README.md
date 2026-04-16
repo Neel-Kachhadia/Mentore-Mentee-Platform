@@ -222,10 +222,4 @@ MIT License
 
 ---
 
-## 🙋 Authors
 
-Built with ❤️ by **Team 1249**:
-- [Pratham Mehta](https://github.com/pratham-mehta)
-- [Neel Kachhadia](https://github.com/neel-kachhadia)
-- [Param Shah](https://github.com/param-shah)
-- [Arnav Bhandari](https://github.com/arnav-bhandari)
